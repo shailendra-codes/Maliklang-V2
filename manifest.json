@@ -1,0 +1,26 @@
+{
+  "short_name": "MaliklangV2",
+  "name": "Maliklang V2: Offline-First AI Genomic Vault",
+  "description": "Super-Advance Ephemeral AI Node for Cancer Mutation Discovery without Internet.",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d1117",
+  "theme_color": "#1f242c",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
+ 
