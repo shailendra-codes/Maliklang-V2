@@ -1,3 +1,5 @@
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 # Maliklang V2.0.0 - Distributed Genomic Multi-Agent Mesh
 # Author: Shailendra Kumar Singh
 
