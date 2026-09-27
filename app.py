@@ -27,7 +27,7 @@ def home():
                 <h1>Maliklang-V2 Genomic AI Engine</h1>
                 <p class="status">⚡ LIVE ON RENDER CLIENT SERVER ⚡</p>
                 <hr style="border-color: #00ffcc;">
-                <p>बहराइच फाउंडर विज़न: बिना इंटरनेट ग्रामीण स्वास्थ्य क्रांति हेतु तैयार।</p>
+                <p>इण्डिया फाउंडर विज़न: बिना इंटरनेट ग्रामीण स्वास्थ्य क्रांति हेतु तैयार।</p>
                 <p><strong>सिस्टम स्टेटस:</strong> 100% सुरक्षित एवं एक्टिवेटिड।</p>
             </div>
         </body>
