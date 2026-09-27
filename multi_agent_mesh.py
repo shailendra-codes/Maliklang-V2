@@ -4,8 +4,8 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # Author: Shailendra Kumar Singh
 
 import asyncio
-import dna_lexer
-DNALexer = dna_lexer.DNALexer
+import dna_lexar
+DNALexer = dna_lexar.DNALexer
 from genetic_shield import GeneticShield
 
 class GenomicAgentMesh:
