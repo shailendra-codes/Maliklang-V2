@@ -1,3 +1,5 @@
+import sys, os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # Maliklang V2.0.0 - Main System Entry Point
 # Author: Shailendra Kumar Singh
 
